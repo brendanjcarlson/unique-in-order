@@ -4,5 +4,6 @@
 # 'AAAABBBCCDAABBB' => ['A', 'B', 'C', 'D', 'A', 'B']
 # 'ABBCcAD' => ['A', 'B', 'C', 'c', 'A', 'D']
 # [1, 2, 2, 3, 3, 2] => [1, 2, 3, 2]
+
 def solution(sequence):
     pass
